@@ -10,6 +10,6 @@ it is a simple app just to check the functionalities of chat app.
 
 PROCESS TO INSTALL IN YOUR MACHINE
 
-1.download the zip file or clone the repo.
-2.go to the folder and npm install 
-3.node app.js
+1. Download the zip file or clone the repo.
+2. Go to the folder and npm install 
+3. Node app.js
